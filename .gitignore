@@ -1,0 +1,13 @@
+# 大文件
+kip-migration.tar.gz
+*.tar.gz
+
+# Node modules
+node_modules/
+**/node_modules/
+
+# 其他常见忽略文件
+.DS_Store
+*.log
+.env
+.env.local
